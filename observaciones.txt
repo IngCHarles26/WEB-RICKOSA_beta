@@ -1,0 +1,15 @@
+RUTAS:
+
+get/character => Esta ruta traerá la informacion como tal cual está en la API, al front
+
+post/addFavorite => Esta ruta guardará la informacion del favorito en la base de datos
+
+delete/delFavorite => Esta ruta borrara la informacion la informacion del favorito del usuario
+
+get/login => Esta ruta compara si el usuario se encuentra en la base de datos
+
+
+
+ACCIONES:
+
+El ordenamiento y filtrado de los favoritos se hará en el front
